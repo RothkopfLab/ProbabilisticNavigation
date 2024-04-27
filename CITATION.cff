@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: Probabilistic Navigation
+version: 1.0.0
+authors:
+  - name: Fabian Kessler
+    affiliation: RothkopfLab
+  - name: Constantin Rothkopf
+    affiliation: RothkopfLab
+version: 1.0.0
+date-released: 2024-04-27
+url: https://github.com/RothkopfLab/ProbabilisticNavigation
+
+
