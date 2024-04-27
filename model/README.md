@@ -31,7 +31,7 @@ The model can be explored through the interactive notebook contained in "noteboo
 - `parameters.py`: Contains all parameters relevant to the model, facilitating easy adjustments and optimizations.
 
 ## Simulation Scripts
-For large-scale simulations that emulate navigation behavior throughout entire experiments, access to a compute cluster is recommended. The provided simulation scripts ensure efficient scheduling and parallel execution of individual trials via RayTune in combination with a SLURM scheduling system. These scripts are located in a separate folder within the repository.
+For large-scale simulations if navigation behavior in entire experiments, access to a compute cluster is recommended. The provided simulation scripts ensure efficient scheduling and parallel execution of individual trials via RayTune in combination with a SLURM scheduling system. These scripts are located in a separate folder within the repository.
 
 
 
